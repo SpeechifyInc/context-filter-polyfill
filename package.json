@@ -1,6 +1,6 @@
 {
-  "name": "context-filter-polyfill",
-  "version": "0.3.13",
+  "name": "@speechifyinc/context-filter-polyfill",
+  "version": "0.3.16",
   "description": "Polyfills `CanvasRenderingContext2d.filter` capability of adopting CSS3 filters to canvas contexts at least partially.",
   "type": "module",
   "main": "dist/index.js",
@@ -10,11 +10,11 @@
     "README.md"
   ],
   "publishConfig": {
-    "access": "public"
+    "registry": "https://npm.pkg.github.com"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:davidenke/context-filter-polyfill.git"
+    "url": "git@github.com:speechifyinc/context-filter-polyfill.git"
   },
   "author": {
     "name": "David Enke",
